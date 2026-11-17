@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/gxy-webseex/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/gxy-webseex/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 4,082-byte Python chess engine: 0x88 board, alpha-beta search to a fixed 80,000 nodes per move, transposition table, quiescence search. Practice Elo 1,365.
+A 3,398-byte Python chess engine: 0x88 board, alpha-beta search to a fixed 80,000 nodes per move, transposition table, quiescence search, bishop-pair bonus. Practice Elo 1,550. K1 builds on the v2 engine with a bishop-pair bonus (+30) added, packed with the make.fun kit compressor.
 
 ## Run it
 
